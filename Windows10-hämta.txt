@@ -1,0 +1,9 @@
+Snabbt sätt att hämta senaste Windows 10 iso
+https://www.bleepingcomputer.com/news/microsoft/how-to-download-the-windows-10-2004-iso-from-microsoft/
+
+1.	https://www.microsoft.com/en-us/software-download/windows10ISO
+2.	chrome/More Tools, Developer tools, Ctrl + Shift + M, Refresh F5
+3.	Windows 10, confirm
+4.	välj språk, välj 64 bitar
+5.	ladda hem
+
